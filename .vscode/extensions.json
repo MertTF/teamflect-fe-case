@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "editorconfig.editorconfig",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost",
+    "christian-kohler.npm-intellisense",
+    "stylelint.vscode-stylelint",
+    "coenraads.disableligatures",
+    "mkxml.vscode-filesize",
+    "bradgashler.htmltagwrap",
+    "asbjornh.vscode-module-templates",
+    "yatki.vscode-surround",
+    "mgmcdermott.vscode-language-babel",
+    "sburg.vscode-javascript-booster"
+  ]
+}
